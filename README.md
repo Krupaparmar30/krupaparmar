@@ -1,7 +1,7 @@
 ![MasterHead](./github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Krupa parmar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="450" src=" https://user-images.githubusercontent...">
+<img align="right" alt="Coding" width="450" src="[ https://user-images.githubusercontent...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzJXTGyRuVoV_FuMfawtgN5ICM9OUXXLOFdtiyOFk&s)">
 
 
 - 🔭 I’m currently working on ** flutter development**
